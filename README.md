@@ -2,7 +2,7 @@
 
 Testing native-image compilation in a leiningen-project using the related [lein-native-image](https://github.com/taylorwood/lein-native-image).
 
-![example workflow](https://github.com/joakimen/clj-lein-graal-example/actions/workflows/clojure.yml/badge.svg)
+![build-badge](https://github.com/joakimen/clj-lein-graal-example/actions/workflows/clojure.yml/badge.svg)
 
 ## Setup
 
