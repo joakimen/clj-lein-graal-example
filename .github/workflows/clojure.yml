@@ -1,4 +1,4 @@
-name: Clojure CI
+name: Build
 
 on:
   push:
@@ -17,3 +17,5 @@ jobs:
       run: lein deps
     - name: Run tests
       run: lein test
+    - name: Build
+      run: lein uberjar
