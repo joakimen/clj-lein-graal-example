@@ -1,4 +1,4 @@
-(ns lein-graal-example.core
+(ns clj-lein-graal-example.core
   (:gen-class))
 
 (defn -main
